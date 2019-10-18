@@ -5,6 +5,7 @@
   "author": "Timur Shemsedinov <timur.shemsedinov@gmail.com>",
   "license": "MIT",
   "scripts": {
+<<<<<<< HEAD
     "test": "eslint ./Exercises && hpw"
   },
   "dependencies": {
@@ -14,5 +15,12 @@
   "devDependencies": {
     "jasmine": "^3.5.0",
     "jasmine-node": "^3.0.0"
+=======
+    "test": "eslint ./Exercises; hpw"
+  },
+  "dependencies": {
+    "eslint": "^6.4.0",
+    "hpw": "^0.1.9"
+>>>>>>> 2c137056907d4916fcc1c25a097a2aa5e6862c36
   }
 }

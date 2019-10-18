@@ -21,6 +21,4 @@ const ages = persons => {
   }
   return personAges;
 };
-
-
 module.exports = { ages };

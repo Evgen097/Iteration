@@ -17,5 +17,5 @@ const max = matrix => {
   }
   return maxItem;
 };
-// console.log(max(  [[[10]], 10]  ))
+
 module.exports = { max };
